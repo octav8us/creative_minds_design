@@ -1,0 +1,18 @@
+{
+    "helloWorld": "اهلا بالعالم!",
+    "change": "تغيير",
+    "search": "ابحث عن وجبة او مطعم",
+    "eGP": "ج",
+    "categories": "اﻷقسام",
+      "fastDelivery": "الطلب السريع",
+      "restaurants": "المطاعم",
+      "grocery": "البقالة",
+    "tantaEstad": "طنطا, منطقة الاستاد",
+      "hendiResturant": "مطعم هندي",
+      "reorder": "اعادة الطلب",
+      "alsalamMarket": "ماركت السلام",
+      "mostOrder": "الاكثر طلبا",
+      "mayLove": "قد تحبها",
+      "familyMeal": "وجبة عائلية"
+
+}
